@@ -1,0 +1,8 @@
+# Environnement virtuel : lourd, recréable avec requirements.txt
+.venv/
+
+# Fichiers temporaires créés par Python
+__pycache__/
+
+# Sauvegardes automatiques de Jupyter
+.ipynb_checkpoints/
