@@ -86,11 +86,11 @@ rfc3987-syntax==1.1.0
 rpds-py==2026.9.1
 Send2Trash==2.1.0
 six==1.17.0
-soupsieve==3.0.4
+soupsieve==4.0
 stack-data==0.6.3
 terminado==0.18.1
 tinycss2==1.5.1
-tornado==6.6
+tornado==6.6.1
 traitlets==5.16.1
 typing_extensions==4.16.0
 tzdata==2026.6
